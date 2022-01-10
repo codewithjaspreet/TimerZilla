@@ -37,7 +37,7 @@ h1{
 .big-text{
     font-weight: bold;
     font-size: 6rem;
-   
+    color: white;
     line-height: 1;
     margin: 1rem 2rem;
 }
@@ -56,8 +56,8 @@ footer{
     margin-bottom: 2rem; 
     font-size: 2rem;
     font-family: 'Faster One', cursive;
-
-    color: black;
+     
+    color: white;
     position: fixed;
 }
 @media(max-width: 404px){
